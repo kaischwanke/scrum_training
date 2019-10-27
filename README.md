@@ -1,1 +1,1 @@
-# scrum_training
+# A list of simple TDD exercises 
