@@ -1,4 +1,4 @@
-package au.com.ksc.scrum.exercise1;
+package au.training.exercise1;
 
 /**
  * This class calculates the average of a given list of numbers
