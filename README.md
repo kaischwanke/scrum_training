@@ -34,3 +34,13 @@ for (int number : numbers) {
 return result;
 ``` 
 
+## Exercice 4
+
+```java
+int result = 0;
+        for (int number : numbers) {
+            result += number;
+        }
+        // implement logic here
+        return result;
+```
