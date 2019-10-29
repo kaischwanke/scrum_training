@@ -1,6 +1,6 @@
 ∆# Solutions
 
-## Exercice 1
+## Exercice 1 (Average)
 
 ```java
 int sum = 0;
@@ -10,7 +10,7 @@ for (int number : numbers) {
 return sum / numbers.length;
 ```
 
-## Exercice 2
+## Exercice 2 (Minimum)
 
 ```java
 int result = numbers[0];
@@ -22,7 +22,7 @@ for (int number : numbers) {
 return result;
 ```
 
-## Exercice 3
+## Exercice 3 (Maximum)
 
 ```java
 int result = numbers[0];
@@ -34,13 +34,13 @@ for (int number : numbers) {
 return result;
 ``` 
 
-## Exercice 4
+## Exercice 4 (Sum)
 
 ```java
 int result = 0;
-        for (int number : numbers) {
-            result += number;
-        }
-        // implement logic here
-        return result;
+for (int number : numbers) {
+    result += number;
+}
+// implement logic here
+return result;
 ```
