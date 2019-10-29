@@ -1,4 +1,4 @@
-∆# Solutions
+# Solutions
 
 ## Exercice 1 (Average)
 
