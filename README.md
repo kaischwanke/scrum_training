@@ -41,6 +41,5 @@ int result = 0;
 for (int number : numbers) {
     result += number;
 }
-// implement logic here
 return result;
 ```
